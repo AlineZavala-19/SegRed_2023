@@ -5,5 +5,5 @@ Notas de clase
 ```python
 import system
 print("Hola")
-#Esto es un formato para color de código
+#Esto es un formato para colorear código
 ```
