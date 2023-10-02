@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a65cf03716c074",
+        "id": "17de4e6d40991a2c",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9dd4ecf34c50f2",
+            "id": "bdaadf51be72625b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/retos-bandit/Bandit Level 1 → Level 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06d753325dd4473c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "primer-parcial-examen/Sin título.md",
+                "file": "primer-parcial-examen/PW Crack 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-parcial-examen/Sin título.md",
+                "file": "primer-parcial-examen/PW Crack 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-parcial-examen/Sin título.md",
+                "file": "primer-parcial-examen/PW Crack 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-parcial-examen/Sin título.md"
+                "file": "primer-parcial-examen/PW Crack 2.md"
               }
             }
           }
@@ -159,15 +146,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "06d753325dd4473c",
+  "active": "bdaadf51be72625b",
   "lastOpenFiles": [
-    "primer-parcial-examen/Sin título.md",
-    "primer-parcial-examen",
-    "retos-bandit/retos-bandit/Bandit Level 0 → Level 1.md",
-    "retos-bandit/retos-bandit/Level 0.md",
-    "retos-bandit/retos-bandit/Bandit Level 1 → Level 2.md",
     "retos-bandit/retos-bandit/plantilla.md",
+    "primer-parcial-examen/PW Crack 2.md",
+    "primer-parcial-examen/PW Crack 1.md",
+    "primer-parcial-examen/Obedient Cat.md",
+    "primer-parcial-examen/Glitch Cat.md",
+    "primer-parcial-examen/fixme2.py.md",
+    "primer-parcial-examen/what's a net cat.md",
+    "primer-parcial-examen/strings it.md",
+    "primer-parcial-examen/fixme1.py.md",
+    "primer-parcial-examen/First Grep.md",
+    "primer-parcial-examen/convertme.py.md",
+    "primer-parcial-examen/Codebook.md",
+    "primer-parcial-examen/Bases.md",
+    "primer-parcial-examen/2Warm.md",
+    "primer-parcial-examen/Warmed Up.md",
+    "primer-parcial-examen/Lets Warm Up.md",
+    "retos-bandit/retos-bandit/Level 0.md",
+    "primer-parcial-examen/Magikarp Ground Mission.md",
+    "primer-parcial-examen/Tab, Tab, Attack.md",
+    "primer-parcial-examen/Static ain't always noise.md",
+    "primer-parcial-examen/Nice netcat....md",
+    "primer-parcial-examen/Wave a flag.md",
+    "retos-bandit/retos-bandit/Bandit Level 0 → Level 1.md",
+    "retos-bandit/retos-bandit/Bandit Level 1 → Level 2.md",
+    "kali_instalacion.png",
     "README.md",
+    "primer-parcial-examen",
     "retos-bandit/retos-bandit",
     "retos-bandit",
     "retos-bandit.zip"
