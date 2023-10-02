@@ -56,10 +56,9 @@ alivz-picoctf@webshell:~$ ./warm -h
 Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_d6969390}
 ```
 ## Notas adicionales
-wget -->
-ls -->
-./ -->
--la -->
-chmod 744 -->
--h -->
+wget --> descargar un archivo desde una URL o FTP.
+ls --> lista los archivos y directorios que existan.
+./ --> ir a un directorio siguiente.
+-la --> listarlos archivos con permisos.
+chmod 744 --> otorgar permisos.
 ## Referencias

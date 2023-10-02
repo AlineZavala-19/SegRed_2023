@@ -38,11 +38,10 @@ alivz-picoctf@webshell:~/Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnab
 *ZAP!* picoCTF{l3v3l_up!_t4k3_4_r35t!_f3553887}
 ```
 ## Notas adicionales
-wget -->
-unzip -->
-cd -->
-strings -->
+wget --> descargar un archivo desde una URL o FTP.
+unzip --> descomprimir archivo.
+cd --> permite movernos entre las carpetas.
+strings --> extraer cadenas de textos de archivos binarios o de datos.
 -a -->
-| -->
-grep -->
+grep --> encontrar un texto dentro de uno o varios archivos.
 ## Referencias

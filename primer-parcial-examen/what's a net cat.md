@@ -14,7 +14,6 @@ You're on your way to becoming the net cat master
 picoCTF{nEtCat_Mast3ry_d0c64587}
 ```
 ## Notas adicionales
-nc -->
-
+nc --> conectar a los puertos **TCP/UDP** de un host, a otros servidores usando diferentes protocolos de red.
 ## Referencias
 [nc(1): arbitrary TCP/UDP connections/listens - Linux man page (die.net)](https://linux.die.net/man/1/nc)

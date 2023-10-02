@@ -27,10 +27,10 @@ alivz-picoctf@webshell:~$ cat file | grep pico
 picoCTF{grep_is_good_to_find_things_f77e0797}
 ```
 ## Notas adicionales
-wget -->
-ls -->
-cat -->
-grep -->
+wget --> descargar un archivo desde una URL o FTP.
+ls --> lista los archivos y directorios que existan.
+cat --> ver el contenido de un archivo.
+grep --> encontrar un texto dentro de uno o varios archivos.
 ## Referencias
 https://ryanstutorials.net/linuxtutorial/grep.php
 

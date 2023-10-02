@@ -65,8 +65,8 @@ else:
   print('That is correct! Here\'s your flag: ' + flag)
 ```
 ## Notas adicionales
-wget -->
-ls -->
-python3 -->
-nano -->
+wget --> descargar un archivo desde una URL o FTP.
+ls --> lista los archivos y directorios que existan.
+python3 --> comando para ejecutar python en consola.
+nano --> leer y escribir un archivo.
 ## Referencias

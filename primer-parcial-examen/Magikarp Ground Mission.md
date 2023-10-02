@@ -38,6 +38,6 @@ ctf-player@pico-chall$ cat 3of3.flag.txt
 ctf-player@pico-chall$ 
 ```
 ## Notas adicionales
-ls
-cat
+ls --> lista los archivos y directorios que existan.
+cat --> ver el contenido de un archivo.
 ## Referencias

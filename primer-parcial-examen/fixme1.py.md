@@ -51,7 +51,7 @@ print('That is correct! Here\'s your flag: ' + flag)
 picoCTF{1nd3nt1ty_cr1515_09ee727a}
 ```
 ## Notas adicionales
-wget -->
-nano -->
-python3 -->
+wget --> descargar un archivo desde una URL o FTP.
+nano --> leer y escribir un archivo.
+python3 --> comando para ejecutar python en consola.
 ## Referencias

@@ -41,5 +41,5 @@ alivz-picoctf@webshell:~$ python3 code.py
 picoCTF{c0d3b00k_455157_d9aa2df2}
 ```
 ## Notas adicionales
-python3 -->
+python3 --> comando para ejecutar python en consola.
 ## Referencias

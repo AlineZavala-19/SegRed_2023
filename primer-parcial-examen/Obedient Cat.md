@@ -34,6 +34,6 @@ picoCTF{s4n1ty_v3r1f13d_f28ac910}
 ```
 
 ## Notas adicionales
-wget -->
-nano -->
+wget --> descargar un archivo desde una URL o FTP.
+nano --> leer y escribir un archivo.
 ## Referencias

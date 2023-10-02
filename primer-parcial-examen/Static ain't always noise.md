@@ -130,11 +130,11 @@ alivz-picoctf@webshell:~$ cat static.ltdis.strings.txt | grep pico
    1020 picoCTF{d15a5m_t34s3r_98d35619}
 ```
 ## Notas adicionales
-wget -->
-vim -->
-:qa -->
-ls -->
-l-l -->
-chmod +x ltdis.sh -->
-cat -->
+wget --> descargar un archivo desde una URL o FTP.
+ls --> lista los archivos y directorios que existan.
+vim --> editor en la terminal (mejor a nano).
+:qa --> quit.
+ls -l --> muestra el listado por columnas y con detalles.
+chmod +x ltdis.sh --> otorgar el permiso x al archivo ltdis.sh.
+cat --> ver el contenido de un archivo.
 ## Referencias

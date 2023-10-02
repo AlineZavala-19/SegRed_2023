@@ -1052,8 +1052,8 @@ alivz-picoctf@webshell:~$ strings strings | grep pico
 picoCTF{5tRIng5_1T_d66c7bb7}
 ```
 ## Notas adicionales
-wget -->
-strings -->
-grep -->
+wget --> descargar un archivo desde una URL o FTP.
+strings --> extraer cadenas de textos de archivos binarios o de datos.
+grep --> encontrar un texto dentro de uno o varios archivos.
 ## Referencias
 [strings(1) - Linux man page (die.net)](https://linux.die.net/man/1/strings)

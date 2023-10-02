@@ -22,7 +22,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> exit()
 ```
 ## Notas adicionales
-nc -->
-python3 -->
-exit() -->
+nc --> conectar a los puertos **TCP/UDP** de un host, a otros servidores usando diferentes protocolos de red.
+python3 --> compilador de python.
+exit() --> salir del compilador de python.
 ## Referencias
