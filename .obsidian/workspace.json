@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "17de4e6d40991a2c",
+        "id": "6b7cb6cbcc96fb7f",
         "type": "tabs",
         "children": [
           {
-            "id": "bdaadf51be72625b",
+            "id": "cfed47e4e88bca13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "primer-parcial-examen/Static ain't always noise.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-parcial-examen/Static ain't always noise.md",
+                "file": "tercer-parcial-examen/parte1/SRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-parcial-examen/Static ain't always noise.md",
+                "file": "tercer-parcial-examen/parte1/SRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-parcial-examen/Static ain't always noise.md"
+                "file": "tercer-parcial-examen/parte1/SRA.md"
               }
             }
           }
@@ -133,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,38 +142,48 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bdaadf51be72625b",
+  "active": "0f4cbace698fb9c0",
   "lastOpenFiles": [
-    "primer-parcial-examen/PW Crack 3.md",
-    "primer-parcial-examen/Wave a flag.md",
-    "primer-parcial-examen/Static ain't always noise.md",
-    "primer-parcial-examen/Tab, Tab, Attack.md",
-    "primer-parcial-examen/Warmed Up.md",
-    "primer-parcial-examen/what's a net cat.md",
-    "primer-parcial-examen/strings it.md",
-    "primer-parcial-examen/runme.py.md",
-    "primer-parcial-examen/PW Crack 2.md",
-    "primer-parcial-examen/PW Crack 1.md",
-    "primer-parcial-examen/plumbing.md",
-    "primer-parcial-examen/Obedient Cat.md",
-    "primer-parcial-examen/Nice netcat....md",
-    "primer-parcial-examen/Magikarp Ground Mission.md",
-    "primer-parcial-examen/Lets Warm Up.md",
-    "primer-parcial-examen/Glitch Cat.md",
-    "primer-parcial-examen/fixme2.py.md",
-    "primer-parcial-examen/fixme1.py.md",
-    "primer-parcial-examen/First Grep.md",
-    "primer-parcial-examen/Codebook.md",
-    "primer-parcial-examen/convertme.py.md",
-    "primer-parcial-examen/Bases.md",
-    "primer-parcial-examen/Based.md",
-    "primer-parcial-examen/2Warm.md",
+    "picoCTF/parte11/Need For Speed.md",
+    "tercer-parcial-examen/parte1/Flags.md",
+    "tercer-parcial-examen/parte1/Mr-Worldwide.md",
+    "tercer-parcial-examen/parte1/SRA.md",
+    "tercer-parcial-examen/parte1/transposition-trial.md",
+    "tercer-parcial-examen/parte1/Vigenere.md",
+    "tercer-parcial-examen/parte2/ASCII FTW.md",
+    "segundo-parcial-examen/Lookey here.md",
     "retos-bandit/retos-bandit/plantilla.md",
-    "retos-bandit/retos-bandit/Level 0.md",
+    "segundo-parcial-examen/Redaction gone wrong.md",
+    "segundo-parcial-examen/Packets Primer.md",
+    "segundo-parcial-examen/Inspect HTML.md",
+    "segundo-parcial-examen/Local Authority.md",
+    "segundo-parcial-examen/Roboto Sans.md",
+    "segundo-parcial-examen/Search source.md",
+    "segundo-parcial-examen/St3g0.md",
+    "picoCTF/parte11/reverse_cipher.md",
+    "picoCTF/parte11/Safe Opener 2.md",
+    "picoCTF/parte11/GDB Test Drive.md",
+    "picoCTF/parte10/vault-door-3.md",
+    "picoCTF/parte10/vault-door-1.md",
+    "picoCTF/parte10/vault-door-training.md",
+    "picoCTF/parte10/vault-door-5.md",
+    "picoCTF/parte10/vault-door-4.md",
+    "picoCTF/parte9/ReadMyCert.md",
+    "picoCTF/parte9/HideToSee.md",
+    "Pasted image 20231130105436.png",
+    "Pasted image 20231130105432.png",
     "kali_instalacion.png",
-    "primer-parcial-examen",
-    "retos-bandit/retos-bandit",
-    "retos-bandit",
-    "retos-bandit.zip"
+    "tercer-parcial-examen/parte2",
+    "Pasted image 20231129152411.png",
+    "tercer-parcial-examen/parte1",
+    "tercer-parcial-examen",
+    "picoCTF/Sin título",
+    "Pasted image 20231122184038.png",
+    "picoCTF/parte12",
+    "picoCTF/parte11",
+    "picoCTF/parte9",
+    "picoCTF/parte8",
+    "picoCTF/parte10",
+    "segundo-parcial-examen"
   ]
 }
