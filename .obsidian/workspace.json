@@ -11,8 +11,12 @@
             "id": "cfed47e4e88bca13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pruebasss/text5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tercer-parcial-examen/parte1/SRA.md",
+                "file": "pruebasss/text5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tercer-parcial-examen/parte1/SRA.md",
+                "file": "pruebasss/text5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tercer-parcial-examen/parte1/SRA.md"
+                "file": "pruebasss/text5.md"
               }
             }
           }
@@ -144,10 +148,12 @@
   },
   "active": "0f4cbace698fb9c0",
   "lastOpenFiles": [
+    "tercer-parcial-examen/parte1/SRA.md",
+    "pruebasss/text5.md",
+    "pruebasss",
     "picoCTF/parte11/Need For Speed.md",
     "tercer-parcial-examen/parte1/Flags.md",
     "tercer-parcial-examen/parte1/Mr-Worldwide.md",
-    "tercer-parcial-examen/parte1/SRA.md",
     "tercer-parcial-examen/parte1/transposition-trial.md",
     "tercer-parcial-examen/parte1/Vigenere.md",
     "tercer-parcial-examen/parte2/ASCII FTW.md",
@@ -169,7 +175,6 @@
     "picoCTF/parte10/vault-door-5.md",
     "picoCTF/parte10/vault-door-4.md",
     "picoCTF/parte9/ReadMyCert.md",
-    "picoCTF/parte9/HideToSee.md",
     "Pasted image 20231130105436.png",
     "Pasted image 20231130105432.png",
     "kali_instalacion.png",
@@ -183,7 +188,6 @@
     "picoCTF/parte11",
     "picoCTF/parte9",
     "picoCTF/parte8",
-    "picoCTF/parte10",
-    "segundo-parcial-examen"
+    "picoCTF/parte10"
   ]
 }
